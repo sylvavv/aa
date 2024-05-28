@@ -1,0 +1,19 @@
+[package]
+name = "aa"
+version = "0.1.0"
+edition = "2021"
+authors = ["vSylva"]
+homepage = "https://github.com/vSylva/aa"
+license = "MIT"
+
+[dependencies]
+
+
+[package.metadata.docs.rs]
+default-target = "x86_64-pc-windows-msvc"
+targets = [
+    "x86_64-pc-windows-msvc",
+    "i686-pc-windows-msvc",
+    "x86_64-pc-windows-gnu",
+    "i686-pc-windows-gnu",
+]
