@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["vSylva"]
 homepage = "https://github.com/vSylva/aa"
 license = "MIT"
+description = "Windows System Utilities"
 
 [dependencies]
 
