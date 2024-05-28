@@ -1,0 +1,3 @@
+```Shell
+cargo run --example
+```
