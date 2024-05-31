@@ -2,13 +2,10 @@
 name = "aa"
 version = "0.1.1"
 edition = "2021"
-authors = ["vSylva"]
-homepage = "https://github.com/vSylva/aa"
+authors = ["sylvavv"]
+repository = "https://github.com/sylvavv/aa"
 license = "MIT"
 description = "Windows System Utilities"
-
-[dependencies]
-
 
 [package.metadata.docs.rs]
 default-target = "x86_64-pc-windows-msvc"
